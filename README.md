@@ -1,2 +1,2 @@
-# Devtown-Assignment-model
+Cervical-Cancer-Prediction-model
 Cervical cancer prediction model
